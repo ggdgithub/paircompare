@@ -1,0 +1,14 @@
+PairCompare
+    input
+        Things to compare
+            as many as you want
+            written as you want
+            stores them before making pair combinations
+            array of objects?
+    output
+        pairs of Things
+            NO copies/repeated combinations
+            make note of score from each pair winner
+            order based on score
+                tiebreaker round if ties happen
+                reorder after tiebreaker
